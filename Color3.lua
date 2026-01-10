@@ -1,5 +1,5 @@
 --[[
-    File:        | Color3.luau
+    File:        | Color3.lua
     Author:      | memoriilane
     Description: | started this because i didn't want to use color values from 0 - 1 with figura libraries (i like RGB 255), and i decided to turn it into a roblox Color3 library replica (with a few small changes & minus all the Roblox specific stuff like Color3 being its own type)
 
