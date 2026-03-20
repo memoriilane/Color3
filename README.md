@@ -11,4 +11,4 @@ A Color library, written in Lua.
 
 ## Notes
 * I originally wrote this because I wanted to use Roblox-style colors with a [Figura](https://figuramc.org/) library, but realized that the library only supported Decimal/Arithmetic RGB. I have tested and can say that this works in both Figura and Roblox environments.
-* Other than the Color3 type itself, this is <i>(almost)</i> functionally identical to [Roblox's Color3 library](https://create.roblox.com/docs/reference/engine/datatypes/Color3).
+* This is <i>(almost)</i> functionally identical to [Roblox's Color3 library](https://create.roblox.com/docs/reference/engine/datatypes/Color3) (in this library, a Color3 object is just a table).
