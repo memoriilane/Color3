@@ -1,5 +1,5 @@
 # Color3
-A Color library, written in Lua.
+A color library, written in Lua.
 
 ## Features
 * Create new Color3
